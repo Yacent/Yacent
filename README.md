@@ -5,5 +5,4 @@ A sophomore in SYSU
 
 Small potato
 
-.
-$"""sysu
+
